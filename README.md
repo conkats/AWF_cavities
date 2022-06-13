@@ -1,5 +1,5 @@
 # Numerical Variant of the Analytical Wall Function (AWF)
-This repository contains the numerical solution, implementation and validation of the AWF for the Betts & Bokhari cavity in the open-source CFD code, Code_Saturne v5.0.8. Furhter information and details can be found in:
+This repository contains the numerical solution, implementation and validation of the AWF for the Betts & Bokhari cavity in the open-source CFD code, **Code_Saturne v5.0.8** by EDF Energy. Furhter information and details can be found in:
 
 [1] Constantinos Katsamis, Tim Craft, Hector Iacovides, Juan C. Uribe, Use of 2-D and 3-D unsteady RANS in the computation of wall bounded buoyant flows,
 International Journal of Heat and Fluid Flow, Volume 93, 2022, 108914, ISSN 0142-727X, https://doi.org/10.1016/j.ijheatfluidflow.2021.108914.
