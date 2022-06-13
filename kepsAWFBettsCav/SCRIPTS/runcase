@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# Ensure the correct command is found:
+export PATH=/opt/code_saturne/v5.0.8/arch/bin:$PATH
+
+while [ -d "../RESU/BETTS_KEAWF_i0_$i/" ] ; do
+	i=$((i+1))
+done
+# Run command:
+\code_saturne run --param setup.xml --id ../RESU/BETTS_KEAWF_i0_$i --nprocs 4
+
+#Comment out if not needed
+python3 Nusselt_auto.py ../RESU/BETTS_KEAWF_i0_$i/ hot_wall_heatflux_engauge_digitizer_app_loRa.csv

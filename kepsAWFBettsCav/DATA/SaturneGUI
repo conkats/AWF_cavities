@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Ensure the correct command is found:
+export PATH="/opt/code_saturne/v5.0.8/arch/bin":$PATH
+
+# Run command:
+\code_saturne gui $@
