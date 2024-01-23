@@ -6,7 +6,11 @@ International Journal of Heat and Fluid Flow, Volume 93, 2022, 108914, ISSN 0142
 
 [2] Constantinos Katsamis, CFD MODELLING OF PASSIVE COOLING NATURAL CIRCULATION LOOPS, PhD thesis, 2022, url=https://www.research.manchester.ac.uk/portal/en/theses/cfd-modelling-of-passive-cooling-natural-circulation-loops(b4f886b3-902e-4b10-94a2-5a26a86c587d).html
 
+[3] Constantinos Katsamis, Tim Craft, Hector Iacovides, Juan C. Uribe, Highly resolved LES and URANS computations of a differentially heated square cavity, International Journal of Thermofluids
+Volume 21, February 2024, 100564, https://doi.org/10.1016/j.ijft.2024.100564
+
+
 The wall function developed during the PhD investigation offers a more flexible and easier implementation of the original proposal, found in:
 
-[3] T.J. Craft, A.V. Gerasimov, H. Iacovides, B.E. Launder, Progress in the generalization of wall-function treatments,
+[4] T.J. Craft, A.V. Gerasimov, H. Iacovides, B.E. Launder, Progress in the generalization of wall-function treatments,
 International Journal of Heat and Fluid Flow, Volume 23, Issue 2, 2002, Pages 148-160, ISSN 0142-727X, https://doi.org/10.1016/S0142-727X(01)00143-6.
